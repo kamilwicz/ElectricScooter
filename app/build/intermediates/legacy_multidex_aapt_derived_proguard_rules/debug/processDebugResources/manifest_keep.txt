@@ -1,0 +1,4 @@
+# Referenced at D:\PWr\VI\PUM\ElectricScooter\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:28
+-keep class android.support.multidex.MultiDexApplication { <init>(); }
+# Referenced at D:\PWr\VI\PUM\ElectricScooter\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:28
+-keep class android.support.v4.app.CoreComponentFactory { <init>(); }
